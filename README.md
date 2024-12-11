@@ -16,7 +16,7 @@
 
 3. **Acessar o endpoint para começar o jogo!**:  
    ```
-   (http://localhost:8080/index)
+   http://localhost:8080/index
    ```
 
 ### Requisitos do Sistema
