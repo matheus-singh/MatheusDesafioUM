@@ -1,4 +1,4 @@
-Desafio Um - Jogo Pedra, Papel e Tesoura
+Desafio 1 - Jogo Pedra, Papel e Tesoura
 
 Curso Spring MVC - Accenture
 
